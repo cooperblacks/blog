@@ -2,7 +2,7 @@
 
 ### List of posts:
 
-- [09 June 2025] [Why I Decided To Start A Blog Here](/posts/2025/06/09/why-i-decided-to-start-a-blog-here)
+- [09 June 2025] [Why I Decided To Start A Blog Here](/blog/posts/2025/06/09/why-i-decided-to-start-a-blog-here)
 
 ### Advertisements:
 
