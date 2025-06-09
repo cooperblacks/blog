@@ -12,7 +12,7 @@ Blogs are basically text-based 'vlogs' (video logs) as some of you Gen Z claiman
 
 What about this one? Well, I started this blog as a way to utilize GitHub's **commit timestamps** and easy-to-use **markdown formatting** via free-to-host GitHub Pages, so that I can have an online space where I can say and write about anything I want without having to comply with stricter set of rules or "censorship" that mainstream writing platforms like [Medium](https://medium.com/), [Hashnode](https://hashnode.com/), [Blogger](https://www.blogger.com/), and [Ghost](https://ghost.org/) have to offer. The timestamps are also helpful in maintaining a verification method for chronologically having rights to any new ideas that I pioneered ahead of everyone else. And the independence and freedom of speech is insane - so that I can reveal certain controversial facts about any evildoers regardless of any amount of power, money, religion or bias. In a self-hosted blog such as this, we are our own reporter, editor and publisher. So, as an internet journalist I am here to deal with facts and fight for justice without being terrorized by governments and big names.
 
-I want to share my knowledge and experiences, basically. Even if they may seem very ordinary or special to me, as long as I can offer some slices of life for everyone to learn or be entertained from, who am I keep them to myself only? Just as the popular saying goes:
+I want to share my knowledge and experiences, basically. Even if they may seem very ordinary or special to me, as long as I can offer some slices of life for everyone to learn or be entertained from, who am I to keep them to myself only? Just as the popular saying goes:
 
 > *One man's trash is another man's treasure*
 
