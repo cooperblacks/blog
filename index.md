@@ -1,10 +1,21 @@
 # Welcome to Cooper Black's blog!
 
-### List of posts:
+Howdy, visitor! Interested in smearing your gaze upon some texts from afar?
 
-- [09 June 2025] [Why I Decided To Start A Blog Here](/blog/posts/2025/06/09/why-i-decided-to-start-a-blog-here)
+If you can read this, I can certainly confirm the following:
+- your internet is working properly
+- your eyes are able to read sentences successfully
+- your brain is healthy enough to make sense of information
+- you are sufficiently literate to read English
 
-### Advertisements:
+Now, you may proceed to access the content I have sacrificed my leisure time and effort in bringing forward just for **you**, dear online friend! Unless you, too, believe in the opportunity costs, ofcourse.
+
+## List of Posts:
+
+- 09 June 2025 - [**Why I Decided To Start A Blog Here**](/blog/posts/2025/06/09/why-i-decided-to-start-a-blog-here)
+- 10 June 2025 - [**Obtain a Free Subdomain Forever**](/blog/posts/2025/06/10/obtain-a-free-subdomain-forever)
+
+## Advertisements:
 
 ```products shown have been reviewed, tested and approved by C. Black```
 
