@@ -1,2 +1,2 @@
-# blog
-Weblog in markdown, no theme, no Jekyll, just GitHub Pages. Contains my thoughts, opinions, reviews and all that.
+# Cooper Black's Blog
+Read what C. Black has to say.
