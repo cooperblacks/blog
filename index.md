@@ -12,8 +12,9 @@ Now, you may proceed to access the content I have sacrificed my leisure time and
 
 ## List of Posts:
 
-- 10 June 2025 - [**Obtain a Free Subdomain Forever**](/blog/posts/2025/06/10/obtain-a-free-subdomain-forever)
-- 09 June 2025 - [**Why I Decided To Start A Blog Here**](/blog/posts/2025/06/09/why-i-decided-to-start-a-blog-here)
+- 11 June 2025 - [**Gender Equality Agendas Promote Discrimination Against Men**](/blog/posts/2025/06/11/gender-equality-agendas-promote-discrimination-against-men) `📄 Thesis`
+- 10 June 2025 - [**Obtain a Free Subdomain Forever**](/blog/posts/2025/06/10/obtain-a-free-subdomain-forever) `📝 Summary`
+- 09 June 2025 - [**Why I Decided To Start A Blog Here**](/blog/posts/2025/06/09/why-i-decided-to-start-a-blog-here) `💭 Opinion`
   
 ## Advertisements:
 
