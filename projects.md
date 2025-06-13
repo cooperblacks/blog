@@ -8,8 +8,8 @@ Chess AI vs AI battleground | [⚫ GitHub](https://github.com/cooperblacks/ai-pr
 Maze Pathfinding AI visualizer | [⚫ GitHub](https://github.com/cooperblacks/ai-projects) | [🌐 View](https://cooperblacks.github.io/ai-projects/Maze-Pathfinding) | C (offline version), HTML, TailwindCSS, JS
 TicTacToe Human vs AI | [⚫ GitHub](https://github.com/cooperblacks/ai-projects) | [🌐 View](https://cooperblacks.github.io/ai-projects/Tic-Tac-Toe/index.html) | C (offline version), HTML, TailwindCSS, JS
 Sorting Algorithms visualizer | [⚫ GitHub](https://github.com/cooperblacks/algorithm-basics) | [🌐 View](https://cooperblacks.github.io/algorithm-basics/Sorting/) | HTML, TailwindCSS, JS
-Mije, a Jekyll theme | [⚫ GitHub](https://github.com/cooperblacks/mije) | | HTML, CSS, Jekyll.rb
-Mistrust, a game | [⚫ GitHub](https://github.com/cooperblacks/mistrust-game) | | C, LibGTK
+🚧 Mije, a Jekyll theme | [⚫ GitHub](https://github.com/cooperblacks/mije) | | HTML, CSS, Jekyll.rb
+🚧 Mistrust, a game | [⚫ GitHub](https://github.com/cooperblacks/mistrust-game) | | C, LibGTK
 Wine Launcher | [⚫ GitHub](https://github.com/cooperblacks/wine-launcher) | | C, LibGTK
 Raw Binary/Hex Editor | [⚫ GitHub](https://github.com/cooperblacks/hex-editor) | | C
 Yet Another Simple Shell (YASS) | [⚫ GitHub](https://github.com/cooperblacks/shell-template) | | C
